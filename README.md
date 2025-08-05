@@ -5,7 +5,6 @@
 ![Full-stack Jira Clone using Next.js 14 and Appwrite](/.github/images/img_main.png 'Full-stack Jira Clone using Next.js 14 and Appwrite')
 
 
-# :notebook_with_decorative_cover: Table of Contents
 
 
 <br />
@@ -33,7 +32,6 @@
 
 Useful resources and dependencies that are used in Jira Clone.
 
-- Thanks to CodeWithAntonio: https://codewithantonio.com/
 - [@hello-pangea/dnd](https://www.npmjs.com/package/@hello-pangea/dnd): ^17.0.0
 - [@hono/zod-validator](https://www.npmjs.com/package/@hono/zod-validator): ^0.4.1
 - [@hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers): ^3.9.0
